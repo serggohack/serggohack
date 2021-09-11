@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serggohack
+- 👋 Hi, I’m Sergei
 - 👀 I’m interested how to learn Termux and Python
 - 🌱 I’m currently learning Python and Termux
 - 💞️ I’m looking to collaborate on Anonymous or Microsoft
